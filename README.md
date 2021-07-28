@@ -4,7 +4,7 @@
 
 ### Hi there 👋, I'm Ali Sheraz
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="500" height="320" />
+<!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="500" height="320" /> -->
 
 #### Fresh Graduate | Software Engineer | Arctic Code Vault Contributor | Former DSC Co-Lead
 
