@@ -4,6 +4,8 @@
 
 ### Hi there 👋, I'm Ali Sheraz
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="500" height="320" />
+
 #### Fresh Graduate | Software Engineer | Arctic Code Vault Contributor | Former DSC Co-Lead
 
 I am Doer, not Dreamer. I have a passion to lead, explore and
@@ -46,7 +48,7 @@ Skills: PHP / REACT / JS / HTML / CSS / Node.js / Laravel / CodeIgniter / Expres
 
 #### GitHub Stats:
 
-_NOTE: Top languages don't indicate my skill level or something like that, it's a GitHub metric of which languages I have the most code on github._
+Note: Top languages don't indicate my skill level or something like that, it's a GitHub metric of which languages I have the most code on github.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imalisheraz&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
