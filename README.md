@@ -27,6 +27,10 @@ Skills: PHP / REACT / JS / HTML / CSS / Node.js / Laravel / CodeIgniter / Expres
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
+<a href="mailto:imalisheraz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-BF211D?style=for-the-badge&logo=Google&logoColor=white" />
+</a>
+
 <a href="https://www.facebook.com/imalisheraz/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
