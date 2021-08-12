@@ -17,7 +17,7 @@ Skills: PHP / REACT / JS / HTML / CSS / Node.js / Laravel / CodeIgniter / Expres
 
 - 🔭 I’m currently working on PHP, CodeIgniter and Laravel.
 - 🌱 I’m currently learning MERN Full Stack Development.
-- 👯 I’m looking to collaborate on I’m looking to collaborate with others and contribute open-source projects and learn new technologies
+- 👯 I’m looking to collaborate with others and contribute open-source projects and learn new technologies
 - 📫 How to reach me: Reach me at imalisheraz@gmail.com.
 - ⚡ Fun fact: I'm a Doer, not Dreamer.
 
