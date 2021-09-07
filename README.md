@@ -6,7 +6,7 @@
 
 <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="500" height="320" /> -->
 
-#### Fresh Graduate | Software Engineer | Arctic Code Vault Contributor | Former DSC Co-Lead
+#### Software Engineer | Arctic Code Vault Contributor | Former DSC Co-Lead | Currently Graduated
 
 I am Doer, not Dreamer. I have a passion to lead, explore and
 experiment with new things. I am specialized in back-end web
