@@ -6,20 +6,25 @@
 
 <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="500" height="320" /> -->
 
-#### Software Engineer | Arctic Code Vault Contributor | Former DSC Co-Lead
+#### Laravel | REST APIs | React | Redux | JS | Arctic Code Vault Contributor | Former DSC Co-Lead | I help enterprises in their Digital Transformation
 
-I am Doer, not Dreamer. I have a passion to lead, explore and
-experiment with new things. I am specialized in back-end web
-development. Experienced with all stages of the development cycle
-for dynamic web projects.
+I am Doer⚡, not Dreamer 💭. I have a passion to lead, explore and experiment with new things. I'm a passionate Full Stack PHP ( Laravel / CodeIgniter ) and JavaScript ( React ) Engineer with more than three years of professional experience in PHP and JavaScript. Currently, I am part of an agile development team where I'm responsible for the development of highly scalable and reliable web applications in multiple environments including microservices and monolithic architectures. I'm also managing 6 members battle-tested team of Laravel developers.
 
-Skills: PHP / REACT / JS / HTML / CSS / Node.js / Laravel / CodeIgniter / Express.js / Mongo DB
+I can build your project from scratch or update your existing code base with the latest trends and code practices. I have vast experience working across various industries for the USA, UK, UEA, and Australia-based clients in a high-paced environment with a strong passion for building reliable, high availability, and secure applications with a 99% success rate💹.
 
-- 🔭 I’m currently working on PHP, CodeIgniter and Laravel.
-- 🌱 I’m currently learning MERN Full Stack Development.
-- 👯 I’m looking to collaborate with others and contribute open-source projects and learn new technologies.
-- 📫 How to reach me: Reach me at imalisheraz@gmail.com.
-- ⚡ Fun fact: I'm a Doer, not Dreamer.
+I can provide the following services:👨🏻‍💻
+
+💡 I help enterprises in their Digital Transformation.
+
+💡 Develop highly interactive Back End / User Interfaces for your web applications.
+
+💡 Develop and design RESTful services and APIs.
+
+💡 Integration of third-party services such as Firebase / GCP / AWS / Digital Ocean.
+
+💡 I help refine a new idea or product or implement the new requirements in the existing product.
+
+💡 I help you reach your full potential.
 
 <div align="center">
 <p align="center">Let's Connect &#129309; & Grow &#127793; Together </p>
@@ -56,4 +61,4 @@ Note: Top languages don't indicate my skill level or something like that, it's a
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imalisheraz&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=imalisheraz&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ImAliSheraz&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark)
