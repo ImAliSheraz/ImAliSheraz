@@ -4,7 +4,7 @@
 
 ### Hi there 👋, I'm Ali Sheraz
 
-<!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="500" height="320" /> -->
+<img align="right" alt="GIF" src="github-cover.png" width="1584" height="396" />
 
 #### Laravel | REST APIs | React | Redux | JS | Arctic Code Vault Contributor | Former DSC Co-Lead | I help enterprises in their Digital Transformation
 
@@ -14,17 +14,17 @@ I can build your project from scratch or update your existing code base with the
 
 I can provide the following services:👨🏻‍💻
 
-💡 I help enterprises in their Digital Transformation.
+👉 I help enterprises in their Digital Transformation.
 
-💡 Develop highly interactive Back End / User Interfaces for your web applications.
+👉 Develop highly interactive Back End / User Interfaces for your web applications.
 
-💡 Develop and design RESTful services and APIs.
+👉 Develop and design RESTful services and APIs.
 
-💡 Integration of third-party services such as Firebase / GCP / AWS / Digital Ocean.
+👉 Integration of third-party services such as Firebase / GCP / AWS / Digital Ocean.
 
-💡 I help refine a new idea or product or implement the new requirements in the existing product.
+👉 I help refine a new idea or product or implement the new requirements in the existing product.
 
-💡 I help you reach your full potential.
+👉 I help you reach your full potential.
 
 <div align="center">
 <p align="center">Let's Connect &#129309; & Grow &#127793; Together </p>
