@@ -6,11 +6,10 @@
 
 #### Laravel | REST APIs | React | Redux | JS | Arctic Code Vault Contributor | Former DSC Co-Lead | I help enterprises in their Digital Transformation
 
-<div align="center">
-<img align="right" alt="GIF" src="github-banner.png" width="100%" height="200" />
-</div>
+<img align="center" alt="GIF" src="github-banner.png" width="100%" height="150" />
 
-<div align="justify">
+<p align="justify">
+<br/>
 I am Doer⚡, not Dreamer 💭. I have a passion to lead, explore and experiment with new things. I'm a passionate Full Stack PHP ( Laravel / CodeIgniter ) and JavaScript ( React ) Engineer with more than three years of professional experience in PHP and JavaScript. Currently, I am part of an agile development team where I'm responsible for the development of highly scalable and reliable web applications in multiple environments including microservices and monolithic architectures. I'm also managing 6 members battle-tested team of Laravel developers.
 
 I can build your project from scratch or update your existing code base with the latest trends and code practices. I have vast experience working across various industries for the USA, UK, UEA, and Australia-based clients in a high-paced environment with a strong passion for building reliable, high availability, and secure applications with a 99% success rate💹.
@@ -29,7 +28,7 @@ I can provide the following services:👨🏻‍💻
 
 👉 I help you reach your full potential.
 
-</div>
+</p>
 
 <div align="center">
 <p align="center">Let's Connect &#129309; & Grow &#127793; Together </p>
