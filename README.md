@@ -4,7 +4,7 @@
 
 ### Hi there 👋, I'm Ali Sheraz
 
-<img align="right" alt="GIF" src="github-cover.png" width="1584" height="396" />
+<img align="right" alt="GIF" src="github-banner.png" width="1584" height="396" />
 
 #### Laravel | REST APIs | React | Redux | JS | Arctic Code Vault Contributor | Former DSC Co-Lead | I help enterprises in their Digital Transformation
 
