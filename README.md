@@ -69,6 +69,8 @@ Note: Top languages don't indicate my skill level or something like that, it's a
 
 ![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=imalisheraz&layout=compact&theme=jolly)
 
+![imalisheraz graph stats](https://activity-graph.herokuapp.com/graph?username=ImAliSheraz&bg_color=291B3E&color=ff64da&line=5BCDEC&point=FFFFFF&hide_border=true)
+
 ### Watch my contribution graph get eaten by the snake 🐍
 
 <!-- platane/snk works, it just puts it on a new branch -->
