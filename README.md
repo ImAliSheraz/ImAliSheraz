@@ -63,6 +63,14 @@ I can provide the following services:👨🏻‍💻
 
 Note: Top languages don't indicate my skill level or something like that, it's a GitHub metric of which languages I have the most code on github.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imalisheraz&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imalisheraz&layout=compact&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ImAliSheraz&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=imalisheraz&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact)
+
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=imalisheraz&layout=compact&theme=jolly)
+
+### Watch my contribution graph get eaten by the snake 🐍
+
+<!-- platane/snk works, it just puts it on a new branch -->
+
+![imalisheraz snake gif](https://github.com/ImAliSheraz/ImAliSheraz/blob/output/github-contribution-grid-snake.svg)
