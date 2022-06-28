@@ -6,7 +6,7 @@
 
 #### Laravel | REST APIs | React | Redux | JS | Arctic Code Vault Contributor | Former DSC Co-Lead | I help enterprises in their Digital Transformation
 
-<img align="center" alt="GIF" src="imalisheraz.gif" width="40%" height="150" style="align:center"/>
+<img align="center" alt="GIF" src="imalisheraz.gif" style="align:center"/>
 
 <p align="justify">
 <br/>
