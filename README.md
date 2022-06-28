@@ -8,7 +8,7 @@
 
 <!-- <img align="center" alt="GIF" src="github-banner.png" width="100%" height="150" /> -->
 
-![GitHub gif](https://github.com/ImAliSheraz/ImAliSheraz/blob/master/imalisheraz.gif)
+![GitHub gif](https://github.com/ImAliSheraz/ImAliSheraz/master/imalisheraz.gif)
 
 <p align="justify">
 <br/>
