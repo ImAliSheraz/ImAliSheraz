@@ -6,9 +6,7 @@
 
 #### Laravel | REST APIs | React | Redux | JS | Arctic Code Vault Contributor | Former DSC Co-Lead | I help enterprises in their Digital Transformation
 
-<!-- <img align="center" alt="GIF" src="github-banner.png" width="100%" height="150" /> -->
-
-![GitHub gif](https://github.com/ImAliSheraz/ImAliSheraz/blob/master/imalisheraz.gif)
+<img align="center" alt="GIF" src="imalisheraz.gif" height="150" />
 
 <p align="justify">
 <br/>
