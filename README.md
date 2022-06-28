@@ -6,7 +6,7 @@
 
 #### Laravel | REST APIs | React | Redux | JS | Arctic Code Vault Contributor | Former DSC Co-Lead | I help enterprises in their Digital Transformation
 
-<img align="center" alt="GIF" src="github-banner.png" height="150" />
+<!-- <img align="center" alt="GIF" src="github-banner.png" height="150" /> -->
 
 <p align="justify">
 <br/>
@@ -32,11 +32,6 @@ I can provide the following services:👨🏻‍💻
 
 <div align="center">
 <p align="center">Let's Connect &#129309; & Grow &#127793; Together </p>
-
-<div align="left" >
-<img align="left" alt="GIF" src="imalisheraz.gif" height="150" />
-</div>
-<div align="right" >
 <a href="https://www.linkedin.com/in/imalisheraz/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -56,7 +51,7 @@ I can provide the following services:👨🏻‍💻
 <a href="https://www.twitter.com/imalisheraz/">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
-</div>
+
 </div>
 <br/>
 
