@@ -8,6 +8,8 @@
 
 <img align="center" alt="GIF" src="imalisheraz.gif" height="150" />
 
+<!-- <img align="center" alt="GIF" src="github-banner.png" width="100%" height="150" /> -->
+
 <p align="justify">
 <br/>
 I am Doer⚡, not Dreamer 💭. I have a passion to lead, explore and experiment with new things. I'm a passionate Full Stack PHP ( Laravel / CodeIgniter ) and JavaScript ( React ) Engineer with more than three years of professional experience in PHP and JavaScript. Currently, I am part of an agile development team where I'm responsible for the development of highly scalable and reliable web applications in multiple environments including microservices and monolithic architectures. I'm also managing 6 members battle-tested team of Laravel developers.
