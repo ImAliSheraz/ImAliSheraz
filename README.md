@@ -76,3 +76,7 @@ Note: Top languages don't indicate my skill level or something like that, it's a
 <!-- platane/snk works, it just puts it on a new branch -->
 
 ![imalisheraz snake gif](https://github.com/ImAliSheraz/ImAliSheraz/blob/output/github-contribution-grid-snake.svg)
+
+
+### Have a Smiley Day...😃 :<br>
+![Jokes Card](https://readme-jokes.vercel.app/api)
