@@ -16,17 +16,17 @@ I can build your project from scratch or update your existing code base with the
 
 I can provide the following services:👨🏻‍💻
 
-👉 I help enterprises in their Digital Transformation.
+🌟 I help enterprises in their Digital Transformation.
 
-👉 Develop highly interactive Back End / User Interfaces for your web applications.
+🌟 Develop highly interactive Back End / User Interfaces for your web applications.
 
-👉 Develop and design RESTful services and APIs.
+🌟 Develop and design RESTful services and APIs.
 
-👉 Integration of third-party services such as Firebase / GCP / AWS / Digital Ocean.
+🌟 Integration of third-party services such as Firebase / GCP / AWS / Digital Ocean.
 
-👉 I help refine a new idea or product or implement the new requirements in the existing product.
+🌟 I help refine a new idea or product or implement the new requirements in the existing product.
 
-👉 I help you reach your full potential.
+🌟 I help you reach your full potential.
 
 </p>
 
@@ -77,6 +77,6 @@ Note: Top languages don't indicate my skill level or something like that, it's a
 
 ![imalisheraz snake gif](https://github.com/ImAliSheraz/ImAliSheraz/blob/output/github-contribution-grid-snake.svg)
 
-
 ### Have a Smiley Day...😃 :<br>
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)
