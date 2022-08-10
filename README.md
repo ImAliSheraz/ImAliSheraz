@@ -10,28 +10,12 @@
 
 <p align="justify">
 <br/>
-I am Doer⚡, not Dreamer 💭. I have a passion to lead, explore and experiment with new things. I'm a passionate Full Stack PHP ( Laravel / CodeIgniter ) and JavaScript ( React ) Engineer with more than three years of professional experience in PHP and JavaScript. Currently, I am part of an agile development team where I'm responsible for the development of highly scalable and reliable web applications in multiple environments including microservices and monolithic architectures. I'm also managing 6 members battle-tested team of Laravel developers.
-
-I can build your project from scratch or update your existing code base with the latest trends and code practices. I have vast experience working across various industries for the USA, UK, UEA, and Australia-based clients in a high-paced environment with a strong passion for building reliable, high availability, and secure applications with a 99% success rate💹.
-
-I can provide the following services:👨🏻‍💻
-
-🌟 I help enterprises in their Digital Transformation.
-
-🌟 Develop highly interactive Back End / User Interfaces for your web applications.
-
-🌟 Develop and design RESTful services and APIs.
-
-🌟 Integration of third-party services such as Firebase / GCP / AWS / Digital Ocean.
-
-🌟 I help refine a new idea or product or implement the new requirements in the existing product.
-
-🌟 I help you reach your full potential.
-
+I am Doer, not Dreamer. I have a passion to lead, explore and experiment with new things. I'm a passionate Full Stack PHP ( Laravel / CodeIgniter ) and JavaScript ( React ) Engineer with more than three years of professional experience in PHP and JavaScript. Currently, I am part of an agile development team where I'm responsible for the development of highly scalable and reliable web applications in multiple environments including microservices and monolithic architectures. I'm also managing 6 members battle-tested team of Laravel developers.
 </p>
 
 <div align="center">
-<p align="center">Let's Connect &#129309; & Grow &#127793; Together </p>
+
+<p align="center">Let's Connect & Grow Together </p>
 
 <a href="https://linktr.ee/imalisheraz" target="_blank">
     <img src="https://img.shields.io/badge/Linktree-5FD068?style=for-the-badge&logo=linktree&logoColor=white" />
