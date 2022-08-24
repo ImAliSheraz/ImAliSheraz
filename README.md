@@ -1,23 +1,6 @@
 <!--
 **ImAliSheraz/ImAliSheraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<style>
-    .libutton {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    padding: 7px;
-    text-align: center;
-    outline: none;
-    text-decoration: none !important;
-    color: #ffffff !important;
-    width: 200px;
-    height: 32px;
-    border-radius: 16px;
-    background-color: #0A66C2;
-    font-family: "SF Pro Text", Helvetica, sans-serif;
-    }
-</style>
 
 ### Hi there 👋, I'm Ali Sheraz
 
@@ -89,4 +72,17 @@ Note: Top languages don't indicate my skill level or something like that, it's a
 
 ### Follow me on LinkedIn
 
-<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=imalisheraz" target="_blank">Follow on LinkedIn</a>
+<a style="display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 7px;
+    text-align: center;
+    outline: none;
+    text-decoration: none !important;
+    color: #ffffff !important;
+    width: 200px;
+    height: 32px;
+    border-radius: 16px;
+    background-color: #0A66C2;
+    font-family: 'SF Pro Text', Helvetica, sans-serif;" 
+    class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=imalisheraz" target="_blank">Follow on LinkedIn</a>
