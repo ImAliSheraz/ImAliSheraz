@@ -66,9 +66,9 @@ Note: Top languages don't indicate my skill level or something like that, it's a
 
 ![imalisheraz snake gif](https://github.com/ImAliSheraz/ImAliSheraz/blob/output/github-contribution-grid-snake.svg)
 
-### Have a Smiley Day...😃 :<br>
+### Holopin Profile
+[![@imalisheraz's Holopin board](https://www.holopin.io/api/user/board?user=imalisheraz)](https://holopin.io/@imalisheraz)
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ### Follow me on LinkedIn
 
@@ -86,3 +86,6 @@ Note: Top languages don't indicate my skill level or something like that, it's a
     background-color: #0A66C2;
     font-family: 'SF Pro Text', Helvetica, sans-serif;" 
     class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=imalisheraz" target="_blank">Follow on LinkedIn</a>
+### Have a Smiley Day...😃 :<br>
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
