@@ -52,11 +52,11 @@ I am Doer, not Dreamer. I have a passion to lead, explore and experiment with ne
 
 Note: Top languages don't indicate my skill level or something like that, it's a GitHub metric of which languages I have the most code on github.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imalisheraz&layout=compact&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imalisheraz&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=imalisheraz&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=imalisheraz&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox&layout=compact)
 
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=imalisheraz&layout=compact&theme=jolly)
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=imalisheraz&layout=compact&theme=gruvbox)
 
 ![imalisheraz graph stats](https://activity-graph.herokuapp.com/graph?username=ImAliSheraz&bg_color=291B3E&color=ff64da&line=5BCDEC&point=FFFFFF&hide_border=true)
 
