@@ -4,7 +4,7 @@
 
 ### Hi there 👋, I'm Ali Sheraz
 
-#### Laravel | REST APIs | React | Redux | JS | Arctic Code Vault Contributor | Former DSC Co-Lead | I help enterprises in their Digital Transformation
+#### Laravel | Node.js | React | Rest APIs | Arctic Code Vault Contributor | I help enterprises in their Digital Transformation
 
 <!-- <img align="center" alt="GIF" src="github-banner.png" height="150" /> -->
 
