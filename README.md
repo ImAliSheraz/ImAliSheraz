@@ -10,11 +10,85 @@
 
 <p align="justify">
 <br/>
-I am Doer, not Dreamer. I have a passion to lead, explore and experiment with new things. I'm a passionate Full Stack PHP ( Laravel / CodeIgniter ) and JavaScript ( React ) Engineer with more than three years of professional experience in PHP and JavaScript. Currently, I am part of an agile development team where I'm responsible for the development of highly scalable and reliable web applications in multiple environments including microservices and monolithic architectures. I'm also managing 6 members battle-tested team of Laravel developers.
+I'm a software engineer with a passion for solving complex problems and building innovative solutions. In my current role, I work on a team responsible for designing and implementing features for a large-scale web applications. I'm skilled at collaborating with cross-functional teams and have a track record of delivering high-quality code on time.
+</p>
+
+<p align="justify">
+I'm always seeking out new ways to improve my skills and stay up-to-date on the latest technologies. I'm experienced in a large number of business domains which are as follows:
+
+⭐ SaaS
+
+⭐ CRMs
+
+⭐ Admin Dashboards
+
+⭐ E-commerce APPs
+
+⭐ Management Systems
+
+⭐ Travel Industry
+
+⭐ Recruitment Apps
+
+⭐ Listing Apps
+
+⭐ Social Media App
+
+⭐ CMS
+
+⭐ ERP
+
+I am comfortable and exceptional at the following tools and technologies:
+
+Web & Apps (Frontend and Backend):
+
+⭐ PHP
+
+⭐ Laravel
+
+⭐ React.js
+
+⭐ Redux / Context API
+
+⭐ Node.js
+
+⭐ JavaScript
+
+⭐ TypeScript
+
+⭐ Adonis.js
+
+⭐ CodeIgniter
+
+⭐ SQL
+
+⭐ MongoDB
+
+
+Server and Deployment:
+
+⭐ AWS EC2
+
+⭐ cPanel
+
+⭐ Hostinger
+
+⭐ Digital Ocean
+
+⭐ Ubuntu Server
+
+⭐ Windows Server
+
+⭐ Shared Hosting
+
+⭐ Google Cloud Platform
+</p>
+
+<p align="justify">
+I'm excited to continue my career as a software engineer and contribute to the development of impactful projects.
 </p>
 
 <div align="center">
-
 <p align="center">Let's Connect & Grow Together </p>
 
 <a href="https://linktr.ee/imalisheraz" target="_blank">
