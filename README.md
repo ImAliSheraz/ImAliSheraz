@@ -15,73 +15,15 @@ I'm a software engineer with a passion for solving complex problems and building
 
 <p align="justify">
 I'm always seeking out new ways to improve my skills and stay up-to-date on the latest technologies. I'm experienced in a large number of business domains which are as follows:
-
-⭐ SaaS
-
-⭐ CRMs
-
-⭐ Admin Dashboards
-
-⭐ E-commerce APPs
-
-⭐ Management Systems
-
-⭐ Travel Industry
-
-⭐ Recruitment Apps
-
-⭐ Listing Apps
-
-⭐ Social Media App
-
-⭐ CMS
-
-⭐ ERP
+SaaS, CRMs, Admin Dashboards, E-commerce APPs, Management Systems, Travel Industry, Recruitment Apps, Listing Apps, Social Media Apps, CMS, ERP and LMS.
 
 I am comfortable and exceptional at the following tools and technologies:
 
 Web & Apps (Frontend and Backend):
-
-⭐ PHP
-
-⭐ Laravel
-
-⭐ React.js
-
-⭐ Redux / Context API
-
-⭐ Node.js
-
-⭐ JavaScript
-
-⭐ TypeScript
-
-⭐ Adonis.js
-
-⭐ CodeIgniter
-
-⭐ SQL
-
-⭐ MongoDB
-
+PHP, Laravel, React.js, Redux / Context API, Node.js, JavaScript, TypeScript, Adonis.js, CodeIgniter, SQL and MongoDB.
 
 Server and Deployment:
-
-⭐ AWS EC2
-
-⭐ cPanel
-
-⭐ Hostinger
-
-⭐ Digital Ocean
-
-⭐ Ubuntu Server
-
-⭐ Windows Server
-
-⭐ Shared Hosting
-
-⭐ Google Cloud Platform
+AWS EC2, cPanel, Hostinger, Digital Ocean, Ubuntu Server, Windows Server, Shared Hosting and Google Cloud Platform.
 </p>
 
 <p align="justify">
