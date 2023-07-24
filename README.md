@@ -78,13 +78,13 @@ Note: Top languages don't indicate my skill level or something like that, it's a
 
 ![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=imalisheraz&layout=compact&theme=gruvbox)
 
-### Watch my contribution graph get eaten by the snake 🐍
+<!-- ### Watch my contribution graph get eaten by the snake 🐍 -->
 
 <!-- platane/snk works, it just puts it on a new branch -->
 
-![imalisheraz snake gif](https://github.com/ImAliSheraz/ImAliSheraz/blob/output/github-contribution-grid-snake.svg)
+<!-- ![imalisheraz snake gif](https://github.com/ImAliSheraz/ImAliSheraz/blob/output/github-contribution-grid-snake.svg) -->
 
-### Follow me on LinkedIn
+<!-- ### Follow me on LinkedIn
 
 <a style="display: flex;
     flex-direction: column;
@@ -99,7 +99,7 @@ Note: Top languages don't indicate my skill level or something like that, it's a
     border-radius: 16px;
     background-color: #0A66C2;
     font-family: 'SF Pro Text', Helvetica, sans-serif;" 
-    class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=imalisheraz" target="_blank">Follow on LinkedIn</a>
+    class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=imalisheraz" target="_blank">Follow on LinkedIn</a> -->
 
 ### Have a Smiley Day...😃 :<br>
 
