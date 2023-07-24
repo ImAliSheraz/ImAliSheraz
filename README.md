@@ -4,13 +4,13 @@
 
 ### Hi there 👋, I'm Ali Sheraz
 
-#### Software Engineer | Laravel | Node.js | React | Rest APIs | Arctic Code Vault Contributor | I help enterprises in their Digital Transformation
+#### Software Engineer | PHP | Laravel | React.js | Node.js | Adonis.js | Arctic Code Vault Contributor | I help enterprises in their digital transformation
 
 <!-- <img align="center" alt="GIF" src="github-banner.png" height="150" /> -->
 
 <p align="justify">
 <br/>
-I'm a software engineer with a passion for solving complex problems and building innovative solutions. In my current role, I work on a team responsible for designing and implementing features for a large-scale web applications. I'm skilled at collaborating with cross-functional teams and have a track record of delivering high-quality code on time.
+I'm a software engineer with a passion for solving complex problems and building innovative solutions. In my current role, I work on a team responsible for designing and implementing features for large-scale web applications. I'm skilled at collaborating with cross-functional teams and have a track record of delivering high-quality code on time.
 </p>
 
 <p align="justify">
@@ -21,12 +21,13 @@ SaaS, CRMs, Admin Dashboards, E-commerce APPs, Management Systems, Travel Indust
 I am comfortable and exceptional at the following tools and technologies:
 
 Web & Apps (Frontend and Backend):
-    
+
 PHP, Laravel, React.js, Redux / Context API, Node.js, JavaScript, TypeScript, Adonis.js, CodeIgniter, SQL and MongoDB.
 
 Server and Deployment:
-    
+
 AWS EC2, cPanel, Hostinger, Digital Ocean, Ubuntu Server, Windows Server, Shared Hosting and Google Cloud Platform.
+
 </p>
 
 <p align="justify">
@@ -73,21 +74,15 @@ Note: Top languages don't indicate my skill level or something like that, it's a
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imalisheraz&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=imalisheraz&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox&layout=compact)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=imalisheraz&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox&layout=compact) -->
 
 ![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=imalisheraz&layout=compact&theme=gruvbox)
-
-![imalisheraz graph stats](https://activity-graph.herokuapp.com/graph?username=ImAliSheraz&line=5BCDEC&point=FFFFFF&hide_border=true&bg_color=282828&color=fabd2f)
 
 ### Watch my contribution graph get eaten by the snake 🐍
 
 <!-- platane/snk works, it just puts it on a new branch -->
 
 ![imalisheraz snake gif](https://github.com/ImAliSheraz/ImAliSheraz/blob/output/github-contribution-grid-snake.svg)
-
-### Holopin Profile
-[![@imalisheraz's Holopin board](https://www.holopin.io/api/user/board?user=imalisheraz)](https://holopin.io/@imalisheraz)
-
 
 ### Follow me on LinkedIn
 
@@ -105,6 +100,7 @@ Note: Top languages don't indicate my skill level or something like that, it's a
     background-color: #0A66C2;
     font-family: 'SF Pro Text', Helvetica, sans-serif;" 
     class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=imalisheraz" target="_blank">Follow on LinkedIn</a>
+
 ### Have a Smiley Day...😃 :<br>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
