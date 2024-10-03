@@ -4,13 +4,13 @@
 
 ### Hi there 👋, I'm Ali Sheraz
 
-#### Software Engineer | PHP | Laravel | React.js | Node.js | Adonis.js | Arctic Code Vault Contributor | I help enterprises in their digital transformation
+#### Helping Businesses Thrive 🚀 | Sr. Software Engineer | Laravel | Node.js | React.js | AWS #TechInnovator #DigitalTransformation
 
 <!-- <img align="center" alt="GIF" src="github-banner.png" height="150" /> -->
 
 <p align="justify">
 <br/>
-I'm a software engineer with a passion for solving complex problems and building innovative solutions. In my current role, I work on a team responsible for designing and implementing features for large-scale web applications. I'm skilled at collaborating with cross-functional teams and have a track record of delivering high-quality code on time.
+I'm a Sr. Software Engineer passionate about solving complex problems and building innovative solutions. In my current role, I work on a team responsible for designing and implementing features for large-scale web applications. I'm skilled at collaborating with cross-functional teams and have a track record of delivering high-quality code on time.
 </p>
 
 <p align="justify">
@@ -74,17 +74,21 @@ Note: Top languages don't indicate my skill level or something like that, it's a
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imalisheraz&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=imalisheraz&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox&layout=compact) -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=imalisheraz&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox&layout=compact)
 
 ![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=imalisheraz&layout=compact&theme=gruvbox)
 
-<!-- ### Watch my contribution graph get eaten by the snake 🐍 -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ImAliSheraz&theme=onedark/github-profile-trophy)
 
-<!-- platane/snk works, it just puts it on a new branch -->
+### Watch my contribution graph get eaten by the snake 🐍
 
-<!-- ![imalisheraz snake gif](https://github.com/ImAliSheraz/ImAliSheraz/blob/output/github-contribution-grid-snake.svg) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ImAliSheraz/ImAliSheraz/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ImAliSheraz/ImAliSheraz/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ImAliSheraz/ImAliSheraz/output/github-contribution-grid-snake.svg">
+</picture>
 
-<!-- ### Follow me on LinkedIn
+### Follow me on LinkedIn
 
 <a style="display: flex;
     flex-direction: column;
@@ -99,7 +103,7 @@ Note: Top languages don't indicate my skill level or something like that, it's a
     border-radius: 16px;
     background-color: #0A66C2;
     font-family: 'SF Pro Text', Helvetica, sans-serif;" 
-    class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=imalisheraz" target="_blank">Follow on LinkedIn</a> -->
+    class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=imalisheraz" target="_blank">Follow on LinkedIn</a>
 
 ### Have a Smiley Day...😃 :<br>
 
