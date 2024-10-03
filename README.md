@@ -4,7 +4,7 @@
 
 ### Hi there 👋, I'm Ali Sheraz
 
-#### Helping Businesses Thrive 🚀 | Sr. Software Engineer | Laravel | Node.js | React.js | AWS #TechInnovator #DigitalTransformation
+#### Helping Businesses Thrive 🚀 | Sr. Software Engineer | Laravel | Node.js | React.js | AWS
 
 <!-- <img align="center" alt="GIF" src="github-banner.png" height="150" /> -->
 
@@ -74,7 +74,7 @@ Note: Top languages don't indicate my skill level or something like that, it's a
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imalisheraz&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=imalisheraz&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox&layout=compact)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=imalisheraz&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox&layout=compact) -->
 
 ![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=imalisheraz&layout=compact&theme=gruvbox)
 
