@@ -4,7 +4,7 @@
 
 ### Hi there 👋, I'm Ali Sheraz
 
-#### Helping Businesses Thrive 🚀 | Sr. Software Engineer | Laravel | Node.js | React.js | AWS
+#### Helping Businesses Thrive 🚀 | Senior Software Engineer | Laravel, React.js, Node.js, AI, AWS, SQL, MVP and SaaS
 
 <!-- <img align="center" alt="GIF" src="github-banner.png" height="150" /> -->
 
