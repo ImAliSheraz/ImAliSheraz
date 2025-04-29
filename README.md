@@ -6,6 +6,10 @@
 
 #### 🚀 Helping Businesses Thrive | 💼 SSE | ⚙️ Node.js, Laravel, React.js, AI, AWS | 🛢️ PostgreSQL, MySQL | 🧪 MVP & SaaS
 
+---
+
+### 🔗 Connect with me
+
 <p align="justify">
 <br/>
 Ali Sheraz is a Senior Software Engineer passionate about solving complex problems and delivering innovative solutions. With over 5 years of experience, he has worked on products ranging from small-scale tools to enterprise-level platforms.
@@ -44,6 +48,10 @@ He’s also skilled in server deployment on AWS EC2 and DigitalOcean, and commit
 
 <a href="mailto:imalisheraz@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-BF211D?style=for-the-badge&logo=Google&logoColor=white" />
+</a>
+
+<a href="https://drive.google.com/drive/folders/13rMJZrQQyHyjVYKgyPlgW4mAXfIY8l-n" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" />
 </a>
 </div>
 
