@@ -8,7 +8,7 @@
 
 ---
 
-### 🚀 About Me
+### 🧑‍💻 About Me
 
 <p align="justify">
 <br/>
