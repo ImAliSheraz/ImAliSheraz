@@ -9,8 +9,6 @@
 **Node.js · Laravel · React.js · TypeScript · AI**  
 **SaaS & MVP Builder | PostgreSQL & MySQL**
 
----
-
 ## 🧑‍💻 About Me
 
 <p align="justify">
@@ -28,8 +26,6 @@ I’ve integrated third-party APIs, including Meta, ArcGIS, Map APIs, Microsoft 
 <p align="justify">
 Currently, I’m exploring AI/ML with Agents and RAG, and I manage cloud infrastructure and CI/CD on AWS, DigitalOcean, and GCP. I thrive in cross-functional teams, translating business needs into scalable, high-quality solutions.
 </p>
-
----
 
 ## 🛠️ Key Skills & Expertise
 
@@ -56,8 +52,6 @@ TDD, Test Automation, Refactoring, Microservices Architecture, RESTful APIs, Sof
 
 *💬 Looking for a dedicated Senior Full-Stack Engineer to lead your next project, optimize your systems, or deliver cutting-edge SaaS solutions? Let’s connect and collaborate on impactful projects!* 🚀👨‍💻
 
----
-
 ## 🛠️ Top Languages & Technologies
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -82,14 +76,10 @@ TDD, Test Automation, Refactoring, Microservices Architecture, RESTful APIs, Sof
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 ![WhatsApp API](https://img.shields.io/badge/WhatsApp_Business_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 
----
-
 ## 🏆 GitHub Achievements
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
-
----
 
 ## 📊 GitHub Stats
 
@@ -99,13 +89,9 @@ TDD, Test Automation, Refactoring, Microservices Architecture, RESTful APIs, Sof
 
 ![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=imalisheraz&layout=compact&theme=gruvbox)
 
----
-
 ## 📫 Reach Me
 
 [LinkedIn](https://linkedin.com/in/imalisheraz) • [Portfolio](https://imalisheraz.github.io)
-
----
 
 ## 🔗 Connect with Me
 
@@ -121,8 +107,6 @@ TDD, Test Automation, Refactoring, Microservices Architecture, RESTful APIs, Sof
 </a>
 </div>
 
----
-
 ## 🐍 Contribution Graph
 
 <picture>
@@ -130,8 +114,6 @@ TDD, Test Automation, Refactoring, Microservices Architecture, RESTful APIs, Sof
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ImAliSheraz/ImAliSheraz/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ImAliSheraz/ImAliSheraz/output/github-contribution-grid-snake.svg">
 </picture>
-
----
 
 ## 😃 Have a Smiley Day
 
