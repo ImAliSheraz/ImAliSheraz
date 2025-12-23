@@ -87,7 +87,7 @@ TDD, Test Automation, Refactoring, Microservices Architecture, RESTful APIs, Sof
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imalisheraz&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=imalisheraz&layout=compact&theme=gruvbox)
+<!-- ![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=imalisheraz&layout=compact&theme=gruvbox) -->
 
 ## 📫 Reach Me
 
