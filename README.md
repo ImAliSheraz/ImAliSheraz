@@ -81,14 +81,14 @@ TDD, Test Automation, Refactoring, Microservices Architecture, RESTful APIs, Sof
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 > ⚠️ *Top languages are a GitHub metric and don’t reflect overall skill level.*
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imalisheraz&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- ![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=imalisheraz&layout=compact&theme=gruvbox) -->
-
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=imalisheraz&layout=compact&theme=gruvbox)
+-->
 ## 📫 Reach Me
 
 [LinkedIn](https://linkedin.com/in/imalisheraz) • [Portfolio](https://imalisheraz.github.io)
